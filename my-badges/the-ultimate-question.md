@@ -3,7 +3,6 @@
 <br><br>
 
 - <a href="https://github.com/olena-christensen/Tattooista/issues/42">#42</a>
-- <a href="https://github.com/olena-christensen/tarot-next-app/issues/42">#42</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
