@@ -14,20 +14,6 @@
     "image": "https://my-badges.github.io/my-badges/github-anniversary-5.png"
   },
   {
-    "id": "the-ultimate-question",
-    "tier": 0,
-    "desc": "I found the answer to the ultimate question of life, the universe, and everything!",
-    "body": "- <a href=\"https://github.com/olena-christensen/Tattooista/issues/42\">#42</a>",
-    "image": "https://my-badges.github.io/my-badges/the-ultimate-question.png"
-  },
-  {
-    "id": "polite-coder",
-    "tier": 0,
-    "desc": "I am a polite coder.",
-    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/olena-christensen/Tattooista/issues/388\">#388</a>: Signup rejects an existing account that owns no studio, so it can never create one",
-    "image": "https://my-badges.github.io/my-badges/polite-coder.png"
-  },
-  {
     "id": "public-keys-4",
     "tier": 4,
     "desc": "I have four public keys",
